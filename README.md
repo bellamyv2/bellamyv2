@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @bellamyv2
-- 🌱 I’m currently learning python,network security and soc 
-- 📫 How to reach me bellamyombaso2@gmail.com
-  ask me about Linux, Cybersecurity, Cryptography
+Hi there, I'm  Bellamy
 
+Cybersecurity Enthusiast | cybersecurity analysts 
 
-<!---
-bellamyv2/bellamyv2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am passionate about cybersecurity, penetration testing, and network security. I love working on projects that help me enhance my skills in identifying vulnerabilities, securing systems, and automating tasks. Below you'll find some of my personal and professional projects related to cybersecurity and programming.
+
+- 🔭 I’m currently working on: network scanning using snort.ips
+- 🌱 I’m learning: python,network analysis and soc
+- 💬 Ask me about: Linux security, Penetration testing, Python scripting
+- 📫 How to reach me: @bellamyombaso2@gmail.com
+
